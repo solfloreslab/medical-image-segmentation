@@ -30,3 +30,7 @@ Python, OpenCV, NumPy, Matplotlib, PIL, SciPy, MedMNIST API
 - Kermany et al. (2018). Identifying medical diagnoses and treatable diseases by image-based deep learning. *Cell*, 172(5).
 - Yang et al. (2023). MedMNIST v2: A large-scale lightweight benchmark for 2D and 3D biomedical image classification. *Scientific Data*, 10(1).
 - Ma et al. (2024). Segment anything in medical images. *Nature Communications*, 15.
+
+## Acknowledgments
+
+Developed with assistance from Claude Code (Anthropic).
